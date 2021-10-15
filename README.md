@@ -4,6 +4,7 @@
 appium   
 appium   
 inspector   
+Fiddler  
 夜神模拟器或者安卓手机   
 mitmdump   
 mitmproxy   
