@@ -1,7 +1,12 @@
 # DYfans
 使用appium进行抖音粉丝的自动化获取  
 ## 工具：
-appium appium inspector 夜神模拟器或者安卓手机 mitmdump mitmproxy  
+appium   
+appium   
+inspector   
+夜神模拟器或者安卓手机   
+mitmdump   
+mitmproxy   
 推荐使用安卓5.0夜神模拟器  
 ## 库：
 appium  
