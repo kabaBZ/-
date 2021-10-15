@@ -13,7 +13,7 @@ appium
 selenium  
 json   
 ## 环境：  
-jdk 安卓sdk 安卓adb工具 xposed框架 安卓root权限 模拟器开放端口8888至本机  
+jdk 安卓sdk 安卓adb工具 xposed框架 安卓root权限 模拟器开放端口8888至本机 justTrustme模块  
 ## 使用方法：  
 在项目源目录cmd：mitmdump -s DYFo.py -p 8888  
 appium inspector 添加配置：（具体配置要自行获取）  
